@@ -5,7 +5,7 @@
 // pin 4 sends electrical energy
 // pin 2 senses senses a change
 CapacitiveSensor capSensor = CapacitiveSensor(4, 2);
-CapacitiveSensor capSensor2 = CapacitiveSensor(4,6);
+CapacitiveSensor capSensor2 = CapacitiveSensor(8,6);
 
 // threshold for turning the lamp on
 int threshold = 1000;
