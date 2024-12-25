@@ -21,3 +21,8 @@ https://processing.org/tutorials/sound/#example-1-2-synthesizer
 
 can use two differnt capacitive touch sensors at the moment I am just using one for the synth
 
+# the 2 programs that make the sound work are
+
+arduino capcitiveTouch2sensors  and 
+
+processing serialReadStringTwoValues
