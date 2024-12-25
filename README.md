@@ -23,6 +23,10 @@ can use two differnt capacitive touch sensors at the moment I am just using one 
 
 # the 2 programs that make the sound work are
 
-arduino capcitiveTouch2sensors  and 
+arduino capcitiveTouch2sensors  and    UPDATED the code
 
 processing serialReadStringTwoValues
+
+processing beatWithSerial      has a beat and is better to listen too
+
+
